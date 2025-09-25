@@ -13,6 +13,8 @@
 # testing
 /coverage
 
+.ssh
+
 # next.js
 /.next/
 /out/
